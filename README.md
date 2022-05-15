@@ -44,8 +44,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/alexa_husky#gh-light-mode-only" rel="nofollow"><img src="/icons/twitter-light.svg" alt="website" style="max-width: 100%;"></a>
 <a href="https://twitter.com/alexa_husky#gh-dark-mode-only" rel="nofollow"><img src="/icons/twitter-dark.svg" alt="website" style="max-width: 100%;"></a>
 &nbsp;&nbsp;
-<a href="www.linkedin.com/in/amila-pushpakumara-51a86a229#gh-light-mode-only" rel="nofollow"><img src="/icons/linkedin-light.svg" alt="website" style="max-width: 100%;"></a>
-<a href="www.linkedin.com/in/amila-pushpakumara-51a86a229#gh-dark-mode-only" rel="nofollow"><img src="/icons/linkedin-dark.svg" alt="website" style="max-width: 100%;"></a>
+<a href="https://www.youtube.com/#gh-light-mode-only" rel="nofollow"><img src="/icons/linkedin-light.svg" alt="website" style="max-width: 100%;"></a>
+<a href="https://www.youtube.com/#gh-dark-mode-only" rel="nofollow"><img src="/icons/linkedin-dark.svg" alt="website" style="max-width: 100%;"></a>
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/nethuahinsaekanayke/#gh-light-mode-only" rel="nofollow"><img src="/icons/instagram-light.svg" alt="website" style="max-width: 100%;"></a>
-<a href="https://www.instagram.com/nethuahinsaekanayke/#gh-dark-mode-only" rel="nofollow"><img src="/icons/instagram-dark.svg" alt="website" style="max-width: 100%;"></a></p>
+<a href="https://www.instagram.com/husky_alexa_official/#gh-light-mode-only" rel="nofollow"><img src="/icons/instagram-light.svg" alt="website" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/husky_alexa_official/#gh-dark-mode-only" rel="nofollow"><img src="/icons/instagram-dark.svg" alt="website" style="max-width: 100%;"></a></p>
