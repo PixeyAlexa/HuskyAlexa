@@ -31,3 +31,20 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="MySQL" width="26px" src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;">
 <img align="left" alt="Git" width="26px" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;">
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="max-width: 100%;">
+
+<br><hr>
+<h3>Connect with me:</h3>
+<p dir="auto"><a href="https://codestackr.com#gh-light-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/globe-light.svg" alt="website" style="max-width: 100%;"></a>
+<a href="https://codestackr.com#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/globe-dark.svg" alt="website" style="max-width: 100%;"></a>
+&nbsp;&nbsp;
+<a href="https://youtube.com/codestackr#gh-light-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/youtube-light.svg" alt="website" style="max-width: 100%;"></a>
+<a href="https://youtube.com/codestackr#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/youtube-dark.svg" alt="website" style="max-width: 100%;"></a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/codestackr#gh-light-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/twitter-light.svg" alt="website" style="max-width: 100%;"></a>
+<a href="https://twitter.com/codestackr#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/twitter-dark.svg" alt="website" style="max-width: 100%;"></a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/codeSTACKr#gh-light-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/linkedin-light.svg" alt="website" style="max-width: 100%;"></a>
+<a href="https://linkedin.com/in/codeSTACKr#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg" alt="website" style="max-width: 100%;"></a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/codeSTACKr#gh-light-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/instagram-light.svg" alt="website" style="max-width: 100%;"></a>
+<a href="https://instagram.com/codeSTACKr#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/instagram-dark.svg" alt="website" style="max-width: 100%;"></a></p>
