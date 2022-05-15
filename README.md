@@ -34,17 +34,18 @@ You can click the Preview link to take a look at your changes.
 
 <br><hr>
 <h3>Connect with me:</h3>
-<p dir="auto"><a href="https://codestackr.com#gh-light-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/globe-light.svg" alt="website" style="max-width: 100%;"></a>
-<a href="https://codestackr.com#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/globe-dark.svg" alt="website" style="max-width: 100%;"></a>
+<p dir="auto">
+<a href="https://huskyalexa.github.io/#gh-light-mode-only" rel="nofollow"><img src="/icons/globe-dark.svg" alt="website" style="max-width: 100%;"></a>
+<a href="https://huskyalexa.github.io/#gh-dark-mode-only" rel="nofollow"><img src="/icons/globe-dark.svg" alt="website" style="max-width: 100%;"></a>
 &nbsp;&nbsp;
-<a href="https://youtube.com/codestackr#gh-light-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/youtube-light.svg" alt="website" style="max-width: 100%;"></a>
-<a href="https://youtube.com/codestackr#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/youtube-dark.svg" alt="website" style="max-width: 100%;"></a>
+<a href="https://www.youtube.com/channel/UCbtf7SD1q0IQxv8Z36kqLkg#gh-light-mode-only" rel="nofollow"><img src="/icons/youtube-light.svg" alt="website" style="max-width: 100%;"></a>
+<a href="https://www.youtube.com/channel/UCbtf7SD1q0IQxv8Z36kqLkg#gh-dark-mode-only" rel="nofollow"><img src="/icons/youtube-dark.svg" alt="website" style="max-width: 100%;"></a>
 &nbsp;&nbsp;
-<a href="https://twitter.com/codestackr#gh-light-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/twitter-light.svg" alt="website" style="max-width: 100%;"></a>
-<a href="https://twitter.com/codestackr#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/twitter-dark.svg" alt="website" style="max-width: 100%;"></a>
+<a href="https://twitter.com/alexa_husky#gh-light-mode-only" rel="nofollow"><img src="/icons/twitter-light.svg" alt="website" style="max-width: 100%;"></a>
+<a href="https://twitter.com/alexa_husky#gh-dark-mode-only" rel="nofollow"><img src="/icons/twitter-dark.svg" alt="website" style="max-width: 100%;"></a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/codeSTACKr#gh-light-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/linkedin-light.svg" alt="website" style="max-width: 100%;"></a>
-<a href="https://linkedin.com/in/codeSTACKr#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg" alt="website" style="max-width: 100%;"></a>
+<a href="www.linkedin.com/in/amila-pushpakumara-51a86a229#gh-light-mode-only" rel="nofollow"><img src="/icons/linkedin-light.svg" alt="website" style="max-width: 100%;"></a>
+<a href="www.linkedin.com/in/amila-pushpakumara-51a86a229#gh-dark-mode-only" rel="nofollow"><img src="/icons/linkedin-dark.svg" alt="website" style="max-width: 100%;"></a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/codeSTACKr#gh-light-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/instagram-light.svg" alt="website" style="max-width: 100%;"></a>
-<a href="https://instagram.com/codeSTACKr#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/instagram-dark.svg" alt="website" style="max-width: 100%;"></a></p>
+<a href="https://www.instagram.com/nethuahinsaekanayke/#gh-light-mode-only" rel="nofollow"><img src="/icons/instagram-light.svg" alt="website" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/nethuahinsaekanayke/#gh-dark-mode-only" rel="nofollow"><img src="/icons/instagram-dark.svg" alt="website" style="max-width: 100%;"></a></p>
