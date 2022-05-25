@@ -5,7 +5,7 @@
 
 
 - <img src="https://cdn.discordapp.com/emojis/864566163132383242.gif?size=96&quality=lossless" width="18" height= "18"> Hi, I’m @HuskyAlexa
-- <img src="https://cdn.discordapp.com/emojis/958849517682311218.gif?size=96&quality=lossless" width="18" height= "18"> I’m interested in Programing , Planig , Design
+- <img src="https://cdn.discordapp.com/emojis/958849517682311218.gif?size=96&quality=lossless" width="18" height= "18"> I’m interested in Programing , Planing , Design
 - <img src="https://cdn.discordapp.com/emojis/853252627274006548.gif?size=96&quality=lossless" width="18" height= "18"> I’m currently learning Programiming language ( lua , py, c,c#,js)
 - <img src="https://cdn.discordapp.com/emojis/969609045398937701.gif?size=96&quality=lossless" width="18" height= "18"> I’m looking to collaborate on Coding Lover's
 - <img src="https://cdn.discordapp.com/emojis/540694385705353216.gif?size=96&quality=lossless" width="18" height= "18">  How to reach me ,
